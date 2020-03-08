@@ -107,6 +107,17 @@ The next set of articles includes general commentary about the course, R program
 5. [Common Problems: Quiz 2 - sqldf() driver fails to connect](http://bit.ly/2kD2KTY)
 5. [Definitive Guide to Week 2 Question 5](http://bit.ly/2wVyR6K) A comprehensive guide to understanding the final question the week two quiz, including a detailed codebook for the data set.
 
+### For Ref
+1. [WK1](https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data)
+2. [WK2](https://rpubs.com/ninjazzle/DS-JHU-3-2-Q2)
+3. [WK3](https://rpubs.com/ninjazzle/DS-JHU-3-3-Q3)
+
+### Supplementary Notes
+
+1. [Simplified OAuth 2.0](https://oauth.net/getting-started/)
+2. [Create an OAuth App on Github](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+3. [Video Tutorial on GitHub OAuth API using R](https://www.youtube.com/watch?v=xCPWRP_WqYQ)
+
 ### Articles and Content Related to Getting and Cleaning Data
 
 1. [Tidy Data](http://bit.ly/2nyw5Ci) Hadley Wickham's paper on Tidy Data, required reading for the course project.
