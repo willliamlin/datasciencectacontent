@@ -111,12 +111,15 @@ The next set of articles includes general commentary about the course, R program
 1. [WK1](https://github.com/mGalarnyk/datasciencecoursera/tree/master/3_Getting_and_Cleaning_Data)
 2. [WK2](https://rpubs.com/ninjazzle/DS-JHU-3-2-Q2)
 3. [WK3](https://rpubs.com/ninjazzle/DS-JHU-3-3-Q3)
+4. [WK4](https://rpubs.com/ninjazzle/DS-JHU-3-4-Q4)
+5. [Project](https://rpubs.com/ASaeedSh/data-cleaning-project-week-4)
 
 ### Supplementary Notes
 
 1. [Simplified OAuth 2.0](https://oauth.net/getting-started/)
 2. [Create an OAuth App on Github](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 3. [Video Tutorial on GitHub OAuth API using R](https://www.youtube.com/watch?v=xCPWRP_WqYQ)
+
 
 ### Articles and Content Related to Getting and Cleaning Data
 
